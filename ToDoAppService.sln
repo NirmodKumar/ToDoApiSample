@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApp.Api", "ToDoApp.Api.csproj", "{A8B63C25-56B1-4158-8D41-9E5434CDCC17}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApp.Api", "..\ToDoApp\ToDoAppApi\ToDoApp.Api.csproj", "{A8B63C25-56B1-4158-8D41-9E5434CDCC17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApp.Domain", "..\ToDoApp.Domain\ToDoApp.Domain.csproj", "{540E3518-2B66-4BA2-B18A-A0B46761A6FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApp.Domain", "..\ToDoApp\ToDoApp.Domain\ToDoApp.Domain.csproj", "{540E3518-2B66-4BA2-B18A-A0B46761A6FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApp.Service", "..\ToDoApp.Service\ToDoApp.Service.csproj", "{201580C7-60D7-4843-AAB1-B156B1497B80}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApp.Service", "..\ToDoApp\ToDoApp.Service\ToDoApp.Service.csproj", "{201580C7-60D7-4843-AAB1-B156B1497B80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApp.Data", "..\ToDoApp.Data\ToDoApp.Data.csproj", "{876B4876-D01D-42B6-ACDB-3E8A438AE664}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApp.Data", "..\ToDoApp\ToDoApp.Data\ToDoApp.Data.csproj", "{876B4876-D01D-42B6-ACDB-3E8A438AE664}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{C6CB2F92-0B62-4563-B60C-C0C920DCC2AF}"
 EndProject
